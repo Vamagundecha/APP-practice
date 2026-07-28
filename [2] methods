@@ -1,4 +1,4 @@
-lass Student:
+class Student:
     school = "ABC School"   # Class variable
 
     def __init__(self, name, marks):
